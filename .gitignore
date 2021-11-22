@@ -30,3 +30,6 @@
 *.exe
 chapter??/*.out
 *.app
+
+# 
+.vscode/*
